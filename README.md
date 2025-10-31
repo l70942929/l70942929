@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning javascript
 - 💬 Ask me about web development
 - 📫 How to reach me: https://github.com/l70942929/l70942929.git
-- 😄 Pronouns:she/he
+- 😄 Pronouns:he
 - ⚡ Fun fact: I'am passionate about both nature and technology.I love solving coding callenges late at night.
 
